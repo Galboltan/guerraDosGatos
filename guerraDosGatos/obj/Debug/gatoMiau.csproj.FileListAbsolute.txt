@@ -1,0 +1,7 @@
+C:\Users\User\Documents\github\projetos\umGameQualquer\guerraDosGatos\bin\Debug\integrandoTudoQueFoiAprendidoNesseModulo.exe.config
+C:\Users\User\Documents\github\projetos\umGameQualquer\guerraDosGatos\bin\Debug\integrandoTudoQueFoiAprendidoNesseModulo.exe
+C:\Users\User\Documents\github\projetos\umGameQualquer\guerraDosGatos\bin\Debug\integrandoTudoQueFoiAprendidoNesseModulo.pdb
+C:\Users\User\Documents\github\projetos\umGameQualquer\guerraDosGatos\obj\Debug\gatoMiau.csprojAssemblyReference.cache
+C:\Users\User\Documents\github\projetos\umGameQualquer\guerraDosGatos\obj\Debug\gatoMiau.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\github\projetos\umGameQualquer\guerraDosGatos\obj\Debug\integrandoTudoQueFoiAprendidoNesseModulo.exe
+C:\Users\User\Documents\github\projetos\umGameQualquer\guerraDosGatos\obj\Debug\integrandoTudoQueFoiAprendidoNesseModulo.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\softBlue\integrandoTudoQueFoiAprendidoNesseModulo\bin\Debug\integrandoTudoQueFoiAprendidoNesseModulo.exe.config
+C:\Users\User\source\repos\softBlue\integrandoTudoQueFoiAprendidoNesseModulo\bin\Debug\integrandoTudoQueFoiAprendidoNesseModulo.exe
+C:\Users\User\source\repos\softBlue\integrandoTudoQueFoiAprendidoNesseModulo\bin\Debug\integrandoTudoQueFoiAprendidoNesseModulo.pdb
+C:\Users\User\source\repos\softBlue\integrandoTudoQueFoiAprendidoNesseModulo\obj\Debug\integrandoTudoQueFoiAprendidoNesseModulo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\softBlue\integrandoTudoQueFoiAprendidoNesseModulo\obj\Debug\integrandoTudoQueFoiAprendidoNesseModulo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\softBlue\integrandoTudoQueFoiAprendidoNesseModulo\obj\Debug\integrandoTudoQueFoiAprendidoNesseModulo.exe
+C:\Users\User\source\repos\softBlue\integrandoTudoQueFoiAprendidoNesseModulo\obj\Debug\integrandoTudoQueFoiAprendidoNesseModulo.pdb
